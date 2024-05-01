@@ -10,8 +10,8 @@ Code has been improved using Amazon Q Developer.
 1. [Installation](#installation)
 2. [Usage](#Usage)
 3. [Contributing](#Contributing)
-4. [Submitting Changes](#Submitting Changes)
-5. [Issue and Feedback](#Issue and Feedback)
+4. [Submitting Changes](#Submitting)
+5. [Issue and Feedback](#Feedback)
 6. [License](#license)
 
 ## Installation
@@ -27,7 +27,7 @@ To set up the Streamlit Ollama Chatbot application, follow these steps:
     ```
     conda create -n ollama python=3.7  
     ```
-3. **Activate Environment: **
+3. **Activate Environment:**
    ```
    conda activate ollama
    ```
@@ -42,6 +42,7 @@ To set up the Streamlit Ollama Chatbot application, follow these steps:
     ```
    
 ## Usage
+
 To run the Streamlit Ollama Chatbot, execute the following command in your terminal:
     ```
     streamlit run ollama_app.py
@@ -63,7 +64,7 @@ We welcome contributions to the Streamlit Ollama Chatbot project! If you'd like 
     streamlit run ollama_app.py
     ```
 
-## Submitting Changes
+## Submitting
 
 Test your changes thoroughly and ensure they don't break any existing functionality.
 
@@ -73,7 +74,7 @@ Commit your changes and push your branch to your forked repository.
 
 Open a pull request to the main repository, describing the changes you've made and why they're valuable.
 
-## Issue and Feedback
+## Feedback
 
 If you encounter any issues or have suggestions for improvements, please open an issue in the repository. We'll do our best to address them in a timely manner.
 
