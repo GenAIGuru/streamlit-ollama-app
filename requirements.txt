@@ -1,0 +1,4 @@
+#Modules to be imported
+ollama~=0.1.9
+streamlit~=1.33.0
+torch~=2.3.0
