@@ -1,4 +1,4 @@
 #Modules to be imported
 ollama~=0.1.9
 streamlit~=1.37.1
-torch~=2.3.0
+torch~=2.6.0
